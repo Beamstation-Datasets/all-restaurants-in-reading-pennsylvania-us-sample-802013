@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Reading, Pennsylvania. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Reading, Pennsylvania, US",
+  "export_job_id": "c6d530f0-e2b7-4b1c-8827-6f8140cb675a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 802013,
+  "location_name": "Reading",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-reading-pennsylvania-us-sample-802013",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/802013/beamstation_802013_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 69,
+  "sample_sha256": "119d35c80a046463a4c1fee25ca858c505479affc2b50c169361b029fdef24af",
+  "sample_size_bytes": 263296,
+  "total_records": 702,
+  "updated_at": "2026-04-07T11:32:53.748018+00:00"
+}

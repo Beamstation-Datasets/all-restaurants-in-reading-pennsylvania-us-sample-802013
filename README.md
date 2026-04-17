@@ -9,9 +9,9 @@
 | Dataset ID | `802013` |
 | Location | Reading |
 | Category | Restaurants |
-| Full dataset size | 702 records |
-| Free sample size | 69 records (9.83%) |
-| Last export | 2026-04-07T11:32:53.748018+00:00 |
+| Full dataset size | 699 records |
+| Free sample size | 69 records (9.87%) |
+| Last export | 2026-04-14T11:28:59.730202+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-reading-pennsylvania-us-sample-802013/releases/download/sample-latest/beamstation_802013_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
